@@ -2,7 +2,8 @@
 
 http://www.careercup.com/page?pid=google-interview-questions
 
->## 1. http://www.careercup.com/question?id=5721714044436480
+---
+## 1. http://www.careercup.com/question?id=5721714044436480
 You are given a String of number characters (S), like the following for example: 
 "132493820173849029382910382" 
 Now, let's assume we tie letters to numbers in order such that: 
