@@ -36,4 +36,4 @@ Your task is:
 2.Print all solutions. 
 3.Store all solutions.
 
-[code](sudoku.cpp)
+[code](sudoku2.cpp)
